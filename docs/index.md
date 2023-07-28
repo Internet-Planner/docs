@@ -5,10 +5,12 @@
 Ce document a pour but de ranger vos idées concernant le sujet du projet.
 
 Exemples :
+
 - Gestionnaire de location de véhicule
 - Gestionnaire de parc immobilier
 
 Possibilités :
+
 - Création d'un site qui rassemble l'ensemble des créations liées aux IA générative, (image, texte, vidéo, document) en libre accès. Les utilisateurs inscrits pourront déposer leur création etc… les utilisateurs non inscrits pourront utiliser toutes les données présentent sur le site… accessoirement intégré un prompt pour utiliser certaines IA sur le site même, "UN SEUL SITE, PLUSIEURS TYPES D'IA GENERATIVE"
 - Création d'un site de streaming léger pour les streamers
 - Planning TV internet (Twitch, YouTube).
@@ -48,17 +50,17 @@ https://cdn.discordapp.com/attachments/1045343696486412338/1101078678785499216/I
 
 ### Créateur veut créer un planning
 1. Le créateur peut ajouter un contenu à son planning :
-	1.1 Le créateur dispose d'un calendrier, lors d'un clic sur un contenu, ce contenu est ajouté au programme selon l'horaire/jour de sortie
-	1.2 Le créateur ajoute directement depuis le calendrier un contenu, en cliquant sur une date/heure sélectionnée
+	1. Le créateur dispose d'un calendrier, lors d'un clic sur un contenu, ce contenu est ajouté au programme selon l'horaire/jour de sortie
+	2. Le créateur ajoute directement depuis le calendrier un contenu, en cliquant sur une date/heure sélectionnée
     
 ### Créateur veut préparé la mise en prod
 2. Le créateur peut préchargé ces vidéos pour être diffusé en temps et en heure sur la plateforme.
-    2.1 Il peut définir une date/heure de sortie
-    2.2 Il peut ajoute une miniature
-    2.3 IL peut ajouter un titre
-    2.4 Il peut ajouter une description
-    2.5 etc ...
-    (les vidéos sont automatiquement ajouté sur le planning)"
+    1. Il peut définir une date/heure de sortie
+    2. Il peut ajoute une miniature
+    3. IL peut ajouter un titre
+    4. Il peut ajouter une description
+    5. etc ...
+    6. (les vidéos sont automatiquement ajouté sur le planning)"
 
 
 ### Créateur veut partager son planning
